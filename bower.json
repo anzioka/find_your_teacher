@@ -1,0 +1,25 @@
+{
+  "name": "search_for_teacher",
+  "description": "an app to help students find teachers for personalized tutoring",
+  "main": "server.js",
+  "authors": [
+    "alfonce.starfish@gmail.com"
+  ],
+
+  "dependencies" : {
+      "bootstrap": "latest",
+      "font-awesome": "latest",
+      "animate.css": "latest",
+      "angular": "latest",
+      "angular-route": "latest"
+  },
+
+  "license": "ISC",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

@@ -1,0 +1,1 @@
+angular.module('findTeacherApp', ['ngRoute','appRoutes', 'MainCtrl']);

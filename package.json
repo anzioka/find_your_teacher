@@ -1,0 +1,24 @@
+{
+  "name": "search_for_teacher",
+  "version": "1.0.0",
+  "description": "an app to help students find teachers for personalized tutoring",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anzioka/find_your_teacher.git"
+  },
+  "author": "alfonce.starfish@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anzioka/find_your_teacher/issues"
+  },
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "mongoose": "^4.9.9"
+  }
+}
